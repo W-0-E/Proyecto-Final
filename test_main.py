@@ -103,7 +103,7 @@ finally:
     current_datetime = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     total_tests = 10
     passed_tests = 8
-    duration = 120.5
+    duration = 140.10
     html_content = f"""
     <!DOCTYPE html>
     <html>
