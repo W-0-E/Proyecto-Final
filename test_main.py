@@ -23,8 +23,8 @@ url = "https://www.facebook.com/"
 marketplace_url = "https://www.facebook.com/marketplace/"
 
 # Credenciales de inicio de sesión (reemplaza con tus propias credenciales)
-email = "warlinguzman22-5@outlook.es"
-password = "prueba1234"
+email = "wilkinortiz11@hotmail.com"
+password = "Prueba2024"
 
 try:
     # Cargar la página de Facebook
